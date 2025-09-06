@@ -1,0 +1,5 @@
+Store conceptual diagrams, flowcharts, mockups, or any design notes.
+
+Use .pdf, .png, .drawio, or .md files.
+
+Example: emotion_module_design.drawio

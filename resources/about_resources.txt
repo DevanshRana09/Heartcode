@@ -1,0 +1,10 @@
+For datasets, images, videos, or anything your project uses.
+
+Keep files organized by type or purpose:
+
+resources/
+  datasets/
+  images/
+  videos/
+
+Add later.

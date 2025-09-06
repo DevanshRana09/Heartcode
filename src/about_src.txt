@@ -1,0 +1,5 @@
+This is where actual code goes once you start implementing.
+
+Even if it’s placeholders now, you can add a simple __init__.py to make it a Python package.
+
+Later, break code into modules like perception.py, memory.py, interface.py.

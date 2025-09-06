@@ -1,0 +1,3 @@
+Keep papers, articles, references, and URLs related to AI, emotional intelligence, robotics, etc.
+
+You can use .pdf or .md summaries of papers.
