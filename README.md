@@ -38,3 +38,13 @@ Heartcode is open for collaboration! If you are interested in AI, robotics, or I
 ## Contact
 Devansh Rana – [LinkedIn](https://linkedin.com/in/devanshrana) | [Email](devanshrana9090@gmail.com)
 
+## Contributing & Collaboration
+
+Heartcode is a learning project exploring AI, robotics, and IoT. We welcome ideas, feedback, and contributions from fellow learners and enthusiasts!
+
+- Feel free to open **issues** or **discussions** to share ideas or ask questions.  
+- You can submit **pull requests** if you want to contribute code or concepts.  
+- Remember, this project is a collaborative learning space—please respect the work and ideas shared here.
+
+Let’s build, learn, and explore together safely and respectfully!
+
